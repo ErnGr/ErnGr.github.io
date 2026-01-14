@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ernestas</title>
-    <link>https://ErnGr.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ernestas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jan 2026 16:07:28 +0200</lastBuildDate>
-    <atom:link href="https://ErnGr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jan 2026 16:28:07 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naujas puslapis</title>
+      <link>http://localhost:1313/posts/trecias/</link>
+      <pubDate>Wed, 14 Jan 2026 16:28:07 +0200</pubDate>
+      <guid>http://localhost:1313/posts/trecias/</guid>
+      <description>&lt;p&gt;Naujas puslapis pridėtas į menių.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pirmasis Postas</title>
-      <link>https://ErnGr.github.io/posts/pirmasis-postas/</link>
+      <link>http://localhost:1313/posts/pirmasis-postas/</link>
       <pubDate>Wed, 14 Jan 2026 16:07:28 +0200</pubDate>
-      <guid>https://ErnGr.github.io/posts/pirmasis-postas/</guid>
-      <description>&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://ErnGr.github.io/images/debesys.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;kodas&#34;&gt;Kodas&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Clouds!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <guid>http://localhost:1313/posts/pirmasis-postas/</guid>
+      <description>&lt;h2 id=&#34;image&#34;&gt;Image&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/debesys.png&#34; alt=&#34;My Image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;kodas&#34;&gt;Kodas&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Clouds!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Naujiena</title>
-      <link>https://ErnGr.github.io/posts/naujas/</link>
+      <link>http://localhost:1313/posts/naujas/</link>
       <pubDate>Wed, 14 Jan 2026 15:26:52 +0200</pubDate>
-      <guid>https://ErnGr.github.io/posts/naujas/</guid>
+      <guid>http://localhost:1313/posts/naujas/</guid>
       <description>&lt;p&gt;Tai yra pirmasis sakinys.&#xA;O čia yra antras.&lt;/p&gt;</description>
     </item>
   </channel>
