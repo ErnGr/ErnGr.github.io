@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ernestas</title>
+    <link>https://ErnGr.github.io/posts/</link>
+    <description>Recent content in Posts on Ernestas</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jan 2026 15:26:52 +0200</lastBuildDate>
+    <atom:link href="https://ErnGr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Naujiena</title>
+      <link>https://ErnGr.github.io/posts/naujas/</link>
+      <pubDate>Wed, 14 Jan 2026 15:26:52 +0200</pubDate>
+      <guid>https://ErnGr.github.io/posts/naujas/</guid>
+      <description>&lt;p&gt;Tai yra pirmasis sakinys.&#xA;O čia yra antras.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
